@@ -1,0 +1,17 @@
+{
+  "name": "webpack-config-demo",
+  "version": "1.0.0",
+  "description": "Webpack configurtion demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Libbert",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "ts-loader": "^0.7.2",  
+    "strip-loader": "^0.1.0",
+    "webpack": "^1.12.9"
+    }
+}
